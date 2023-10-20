@@ -1,0 +1,5 @@
+{
+  "serverPort": 15000,
+  "rootDirectory": "define your root directory name here",
+  "urlPrefix": "define your URL prefix here"
+}
