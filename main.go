@@ -1,4 +1,4 @@
-// Package main is the storage server's starting point.
+// Package main is the starting point of the file server.
 package main
 
 import (
